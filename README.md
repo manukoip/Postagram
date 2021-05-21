@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Postagram - Photo Sharing Application
+This project is a basic CRUD app displaying a list of posts with images and data like the name, location, and description of the post. I used AWS Amplify, React and GraphQL API to creat the application with AWS S3 buck to handle images added.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
