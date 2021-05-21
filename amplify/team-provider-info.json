@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-postagram-dev-171100-authRole",
+      "UnauthRoleArn": "arn:aws:iam::085188781772:role/amplify-postagram-dev-171100-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::085188781772:role/amplify-postagram-dev-171100-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-postagram-dev-171100-deployment",
+      "UnauthRoleName": "amplify-postagram-dev-171100-unauthRole",
+      "StackName": "amplify-postagram-dev-171100",
+      "StackId": "arn:aws:cloudformation:us-east-1:085188781772:stack/amplify-postagram-dev-171100/09bcdf30-b9c9-11eb-9023-0a5afd1032bb",
+      "AmplifyAppId": "d1uz75yzemtwgy"
+    },
+    "categories": {
+      "auth": {
+        "postagram32dec6d6": {}
+      }
+    }
+  }
+}
